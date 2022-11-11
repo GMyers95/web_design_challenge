@@ -1,6 +1,6 @@
 <!--css-->
 
-.navbar .navbar-toggler{
+.navbar .navbar-brand{
   color: rgba(219, 144, 202, 0.281); 
   margin-left: 30px; 
   padding: inherit; 
@@ -26,6 +26,9 @@
  }
 .nav-link {
   color:white !important;
+}
+body { 
+  padding-top: 60px; 
 }
 .custom {
   background-color: rgba(56, 113, 245, 0.327);
@@ -94,7 +97,7 @@ html{
       text-align: center;
     }
     .navbar-expand-lg {
-    background-color: black !important;
+    background-color: rgb(115, 50, 137) !important;
     }
     .navbar {
       max-height: none;
@@ -102,7 +105,7 @@ html{
     }
     .navbar div {
       margin: inherit;
-      background-color: black;
+      background-color: rgb(139, 34, 174);
     }
     .navbar-brand {
       padding: 10px !important;
