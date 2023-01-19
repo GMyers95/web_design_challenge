@@ -4,7 +4,9 @@
 ## Overview
 <hr>
 
-Example of the use of the Bootstrap using images that were created in Python from a previous [data analysis](https://github.com/GMyers95/api_challenge).  The goal of the challenge was to create templates and generate pages with minimal time usage.
+Using Bootstrap with images that were created in Python from a previous [data analysis](https://github.com/GMyers95/api_challenge) to develop a live page.  The goal of the challenge was to create templates and generate pages with minimal time usage.
+
+<img src= "homepage.png" width="80%">
 
 ## Bootstrap Features:
 * Responsive Menu, Layout, and Table
